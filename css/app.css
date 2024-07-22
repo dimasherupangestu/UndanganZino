@@ -19,6 +19,9 @@ body {
 .font-esthetic {
   font-family: Sacramento, cursive !important;
 }
+.font-zino {
+  font-family: "Marck Script", cursive;
+}
 
 .font-arabic {
   font-family: "Noto Naskh Arabic", serif !important;
